@@ -68,3 +68,6 @@ obj/
 *.user
 *.suo
 *.sln.iml
+
+# Project-specific
+docker-compose.yml
